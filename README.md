@@ -28,13 +28,14 @@ Resilient to bitstream corruption.
 
 ## Paper
 
-ArXiv: [link coming — submission in progress]
+ArXiv: https://arxiv.org/abs/2604.03336
 
 ## Status
 
 | Component | Status |
 |---|---|
 | Encoding scheme | ✅ Specified |
+| ArXiv paper | ✅ Published — 2604.03336 |
 | Provisional patent | ✅ Filed (Indian Patent Office, March 2026) |
 | C reference implementation | 🔄 In progress |
 | GGUF benchmark comparison | 🔄 Planned — v2 paper |
